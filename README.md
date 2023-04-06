@@ -1,2 +1,2 @@
-# alx-higher_level_programming
-New repo for learning python with ALX
+### ALX HIGH LEVEL PROGRAMMING
+## This document consists of high level programming codes so hold on to your hats
